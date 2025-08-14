@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Growmore Consultants</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+
+        header {
+            background-color: #2a9d8f;
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        main {
+            padding: 40px 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            color: #264653;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        iframe {
+            width: 100%;
+            min-height: 1275px;
+            border: none;
+        }
+
+        footer {
+            background-color: #264653;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        a {
+            color: #e9c46a;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Growmore Consultants</h1>
+        <p>Your trusted partner for professional consultancy services</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>
+                Growmore Consultants is dedicated to providing expert guidance and consultancy services to help individuals and businesses grow and succeed. We offer tailored solutions to meet your unique needs.
+            </p>
+        </section>
+
+        <section>
+            <h2>Connect With Us</h2>
+            <p>Please fill out the form below, and we will get in touch with you:</p>
+            
+            <!-- Google Form embedded -->
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfh0tZaQt79b6P2MWyoCCas55jUyN16XqlS9iOyk2nHf57ucg/viewform?embedded=true" width="640" height="1275" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        </section>
+    </main>
+
+    <footer>
+        &copy; 2025 Growmore Consultants | Designed with ❤️
+    </footer>
+
+</body>
+</html>
